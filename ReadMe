@@ -1,0 +1,10 @@
+This repo is for devOps.
+
+For run the application you need to use for example  -Dname=nom in the jvm parameter
+
+You have 2 parameters -Dnom and -Dprenom when you launch the jvm 
+
+Command : 
+	java -Dnom=Dupond -Dprenom=jean project
+
+
