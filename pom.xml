@@ -19,7 +19,7 @@
 			<target>1.6</target>
 		</configuration>
 	</plugin>
-	<!--
+	
 	<plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-jar-plugin</artifactId>
@@ -29,12 +29,12 @@
                         </excludes>
                         <archive>
                                 <manifest>
-                                        <mainClass>Main</mainClass>
+                                        <mainClass>com.devops.gabriel.Main</mainClass>
                                 </manifest>
                         </archive>
                 </configuration>
         </plugin>
-	-->
+	
    </plugins>
   </build>
 
